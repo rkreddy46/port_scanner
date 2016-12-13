@@ -7,7 +7,7 @@ import traceback
 __author__ = "Rakesh Reddy (rkreddy46@gmail.com)"
 __version__ = 1.0
 
-# This is a simple implementation of port scanner in python. It checks each IP one after another sequencially.
+# This is a simple implementation of port scanner in python. It checks each IP one after another sequentially.
 # A multi-processed version will be released soon.
 
 # Set the default timeout for creating a connection. You need to change this based on the network delay
